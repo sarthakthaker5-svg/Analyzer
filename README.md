@@ -226,16 +226,16 @@ pip install numpy
 ## Output Screenshots
 
 ### Output 1
-![Output 1](Pic1.png)
+![Output 1](Pic1.PNG)
 
 ### Output 2
-![Output 2](Pic2.png)
+![Output 2](Pic2.PNG)
 
 ### Output 3
-![Output 3](Pic3.png)
+![Output 3](Pic3.PNG)
 
 ### Output 4
-![Output 4](Pic4.png)
+![Output 4](Pic4.PNG)
 
 ---
 
