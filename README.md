@@ -243,7 +243,7 @@ pip install numpy
 
 Watch the complete project demonstration here:
 
-[▶ Watch Demo Video](Paste Video Link Here)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1YVWd6pOWYXqyri5q-1e5AborbIxEKBht/view?usp=drive_open)
 
 ---
 
